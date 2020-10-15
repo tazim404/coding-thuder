@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://www.facebook.com/codingthunder",
+    "twitter_url": "https://www.twitter.com/codingthunder",
+    "github_url": "https://www.github.com/codingthunder",
+    "blog_name": "Coding Thunder",
+    "tagline": "A Blog For Programmers",
+    "gmail-user": "rahbartazim@gmail.com",
+    "gmail-password": "rahbartazim@forbes",
+    "about_text": "Hi my name is Tazim and I am begginer in the programming.So by with my full dedication and foucus I have created this site called Coding Thunder",
+    "number_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "admin",
+    "admin_password": "admin",
+    "upload_location": "C:\\Users\\MD TAZIM\\Desktop\\Flask Project\\static\\img"
+  }
+}
